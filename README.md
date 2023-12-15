@@ -1,8 +1,8 @@
 # To-Do List App
 
-![Menu Screenshot](Menu.png)
+![Menu Screenshot](Images/Menu.png)
 
-![InApp](InApp.png)
+![InApp](Images/InApp.png)
 
 A simple web application for managing your to-do list. Add tasks, mark them as completed, and delete them when done.
 

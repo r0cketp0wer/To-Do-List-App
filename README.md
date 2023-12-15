@@ -1,5 +1,9 @@
 # To-Do List App
 
+![Menu Screenshot](Menu.png)
+
+![InApp](InApp.png)
+
 A simple web application for managing your to-do list. Add tasks, mark them as completed, and delete them when done.
 
 ## Features
@@ -22,4 +26,4 @@ A simple web application for managing your to-do list. Add tasks, mark them as c
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
